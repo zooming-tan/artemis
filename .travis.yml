@@ -38,6 +38,7 @@ cache: pip
 python:
   - "3.4"
 install:
+  - "pip install -U pip wheel"
   - "pip install hitch"
   - "cd tests"
   - "hitch init"
