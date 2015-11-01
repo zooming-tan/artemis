@@ -12,12 +12,27 @@
      /:/  /       |:|  |                      \:\__\         /:/  /      \/__/        \::/  /   
      \/__/         \|__|                       \/__/         \/__/                     \/__/    
 
+|Build Status| |Code Health| |Join Chat|
+
 Artemis
 ==============================
 
-My personal Django scaffold to build awesome web apps - Powered by cookiecutter-django_.
+My personal Django scaffold to build awesome web apps - Powered by cookiecutter-django_ and the `12-factor app`_ manifesto.
 
 .. _cookiecutter-django: https://github.com/pydanny/cookiecutter-django
+.. _12-factor app: http://12factor.net/
+
+.. |Build Status| image:: https://travis-ci.org/zooming-tan/artemis.svg
+   :target: https://travis-ci.org/zooming-tan/artemis
+   :alt: Build Status
+
+.. |Join Chat| image:: https://badges.gitter.im/Join%20Chat.svg
+   :target: https://gitter.im/zooming-tan/chatroom
+   :alt: Join chat
+
+.. |Code Health| image:: https://codeclimate.com/github/zooming-tan/artemis/badges/gpa.svg
+   :target: https://codeclimate.com/github/zooming-tan/artemis
+   :alt: Code Climate
 
 LICENSE: BSD
 
