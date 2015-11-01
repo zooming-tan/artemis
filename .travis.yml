@@ -1,4 +1,4 @@
-sudo: false
+sudo: false  # move to container-based infrastructure
 addons:
   apt:
     packages:
@@ -33,6 +33,7 @@ addons:
       - curl 
       - llvm
 language: python
+cache: pip
 python:
   - "3.4"
 install:
