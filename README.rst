@@ -17,10 +17,11 @@
 Artemis
 ==============================
 
-My personal Django scaffold to build awesome web apps - Powered by cookiecutter-django_ and the `12-factor app`_ manifesto.
+My personal Django scaffold to build awesome web apps - Powered by cookiecutter-django_, the `12-factor app`_ manifesto and Vincent Driessen's scalable git `branching model`_.
 
 .. _cookiecutter-django: https://github.com/pydanny/cookiecutter-django
 .. _12-factor app: http://12factor.net/
+.. _branching model: http://nvie.com/git-model
 
 .. |Build Status| image:: https://travis-ci.org/zooming-tan/artemis.svg
    :target: https://travis-ci.org/zooming-tan/artemis
