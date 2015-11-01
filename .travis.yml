@@ -22,3 +22,8 @@ branches:
 
 script:
   - "hitch test . --extra '{\"xvfb\":true, \"pause_on_failure\":false}'"
+
+before_install:
+  - pip install codecov
+after_success:
+  - codecov

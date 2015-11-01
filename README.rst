@@ -12,7 +12,7 @@
      /:/  /       |:|  |                      \:\__\         /:/  /      \/__/        \::/  /   
      \/__/         \|__|                       \/__/         \/__/                     \/__/    
 
-|Build Status| |Code Health| |Join Chat|
+|Build Status| |Code Health| |Code Coverage| |Join Chat|
 
 Artemis
 ==============================
@@ -33,6 +33,9 @@ My personal Django scaffold to build awesome web apps - Powered by cookiecutter-
 .. |Code Health| image:: https://codeclimate.com/github/zooming-tan/artemis/badges/gpa.svg
    :target: https://codeclimate.com/github/zooming-tan/artemis
    :alt: Code Climate
+
+.. |Code Coverage| image:: https://codecov.io/github/zooming-tan/artemis/coverage.svg?branch=master
+    :target: https://codecov.io/github/zooming-tan/artemis?branch=master
 
 LICENSE: BSD
 
