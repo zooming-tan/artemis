@@ -12,7 +12,7 @@
      /:/  /      |:|  |                \:\__\        /:/  /    \/__/      \::/  /   
      \/__/        \|__|                 \/__/        \/__/                 \/__/    
 
-|Build Status| |Code Health| |Code Coverage| |Join Chat|
+|Build Status| |Code Coverage| |Code Health| |Release version| |Join Chat|
 
 Artemis
 ==============================
@@ -37,6 +37,9 @@ My personal Django scaffold to build awesome web apps - Powered by cookiecutter-
 
 .. |Code Coverage| image:: https://codecov.io/github/zooming-tan/artemis/coverage.svg?branch=master
     :target: https://codecov.io/github/zooming-tan/artemis?branch=master
+
+.. |Release version| image:: https://badge.fury.io/gh/zooming-tan%2Fartemis.svg
+    :target: https://badge.fury.io/gh/zooming-tan%2Fartemis
 
 LICENSE: BSD
 
