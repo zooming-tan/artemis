@@ -1,5 +1,7 @@
 sudo: false  # move to container-based infrastructure
 addons:
+  firefox: 
+    - "latest"
   apt:
     packages:
       - build-essential
